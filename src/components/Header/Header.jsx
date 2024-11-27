@@ -1,7 +1,7 @@
 import React from "react";
 // file imports that you need -- css, media images
 import "./Header.css";
-import logoImage from "../../assets/FELV-cat.jpg";
+import logoImage from "../../assets/zac_reaction.jpg";
 
 // declare the component
 function Header() {
